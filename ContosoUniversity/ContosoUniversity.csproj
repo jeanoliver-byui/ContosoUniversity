@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Models\SchoolViewModels\Class.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Models\JavaScript.js" />
   </ItemGroup>
 

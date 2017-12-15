@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20171212033750_Inheritance.cs" />
+    <Compile Remove="Migrations\20171212033750_Inheritance.Designer.cs" />
+    <Compile Remove="Migrations\20171215025258_Inheritance.cs" />
+    <Compile Remove="Migrations\20171215025258_Inheritance.Designer.cs" />
     <Compile Remove="Models\SchoolViewModels\Class.cs" />
   </ItemGroup>
 
